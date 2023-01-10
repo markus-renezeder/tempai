@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tempml", "tempml\tempml.csproj", "{D19DD07B-4151-4EC4-A857-C4B142970817}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tempml_WebApi", "Tempml_WebApi\Tempml_WebApi.csproj", "{16DE917D-0866-481D-9079-69316D06F552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D19DD07B-4151-4EC4-A857-C4B142970817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19DD07B-4151-4EC4-A857-C4B142970817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19DD07B-4151-4EC4-A857-C4B142970817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19DD07B-4151-4EC4-A857-C4B142970817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DE917D-0866-481D-9079-69316D06F552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DE917D-0866-481D-9079-69316D06F552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DE917D-0866-481D-9079-69316D06F552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DE917D-0866-481D-9079-69316D06F552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8B530F-0BA5-4C1B-8731-88DF235241E5}
+	EndGlobalSection
+EndGlobal
